@@ -1,7 +1,7 @@
 #The Class Scheduling App
 
 The timetable generator app is designed to streamline daily scheduling for teachers. It allows them to schedule their classes with specific dates, times, and periods, while managing detailed information through a centralized class podium. Teachers can easily swap periods with a single button, and the app features an online ledger for updates, which can be reviewed and signed by the HOD or principal. Additionally, teachers can view their daily schedule and access their profile for seamless management of their teaching responsibilities.
-The App is built on React Native , Express and Tailwind CSS 
+The App is built on React Native, Node with Express and Tailwind CSS 
 1. The Homepage UI 
 ![image](https://github.com/user-attachments/assets/93528809-4341-4593-8e0d-aba894fd90ea)
 2. Select Free Time: Pick the time slots when you're available.
